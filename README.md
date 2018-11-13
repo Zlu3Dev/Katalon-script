@@ -1,8 +1,8 @@
 # Katalon Scripting 
-Mechanicsburg Katalon scripting reposiotry 
+Mechanicsburg Katalon scripting reposiotry.
 This is the repository for Katalon scripting, Katalon functions and method.
 Please use this repository for automation testing and researching purpose only.
-Repository creator- Zhiyong Lu has the copyrights for the contents in this repository. Please do not share the information unless owner authorized.
+Repository creator has the copyrights for the contents in this repository. Please do not share the information unless owner authorized.
 
 # Organizer :smiley:
  * [Zhiyong Lu] (US - Mechanicsburg Delivery) <zhilu@DELOITTE.com>; 
@@ -32,12 +32,12 @@ Repository creator- Zhiyong Lu has the copyrights for the contents in this repos
 Guidline |Notes | contributor
 ------- |------------ | -------------
 Knowledge|To be posted |  Zhiyong Lu
-Make up/ practice|To be posted | Zhiyong Lu
+Demo |To be posted | Zhiyong Lu
 
 # advanced funcitons
 
 Guidline |Notes | contributor
 ------- |------------ | -------------
 Knowledge|To be posted |  Zhiyong Lu
-Make up/ practice|To be posted | Zhiyong Lu
+Demo |To be posted | Zhiyong Lu
 
