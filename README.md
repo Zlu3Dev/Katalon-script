@@ -27,14 +27,14 @@ Repository creator has the copyrights for the contents in this repository. Pleas
     * To be posted
 
 
-# Basic functions
+# Generated random numbers and Strings functions
 
 Guidline |Notes | contributor
 ------- |------------ | -------------
 Knowledge|To be posted |  Zhiyong Lu
 Demo |To be posted | Zhiyong Lu
 
-# advanced funcitons
+# Openning two windows
 
 Guidline |Notes | contributor
 ------- |------------ | -------------
