@@ -1,74 +1,43 @@
-# Meetup-DS-ML-AI 
-Camp Hill Machine Learning/AI Meetup 
-This is the repository for Data scientists, Machine learning and Artificial intelligence meetup.
-Please use this repository for studying purpose only.
+# Katalon Scripting 
+Mechanicsburg Katalon scripting reposiotry 
+This is the repository for Katalon scripting, Katalon functions and method.
+Please use this repository for automation testing and researching purpose only.
 Repository creator- Zhiyong Lu has the copyrights for the contents in this repository. Please do not share the information unless owner authorized.
 
 # Organizer :smiley:
- * [Zhiyong Lu](https://www.linkedin.com/in/zhiyong-lu-2a054041/)
- * Tina
-
+ * [Zhiyong Lu] (US - Mechanicsburg Delivery) <zhilu@DELOITTE.com>; 
+ * [Amanat, Shah] (US - Mechanicsburg Delivery) <samanat@DELOITTE.com>; 
+ * [Agarwal, Ankit] (US - Mechanicsburg Delivery) <ankitagarwal4@deloitte.com>; 
+ * [Ali, Syed M] (US - Mechanicsburg Delivery) <syedmali7@DELOITTE.com>; 
+ * [Ekainjoh, Fon] (US - Mechanicsburg Delivery) <fekainjoh@deloitte.com>
+ * [Vijayan, Sathia] (US - Mechanicsburg Delivery) <satvijayan@deloitte.com>
+ 
 # Tools setting
  * Setting up Github
     * [Setting Git](https://help.github.com/articles/set-up-git/)
     * [Github Guide](https://guides.github.com/)
     
- * Setting up R and R studio
-    * [Setting up R youtube](https://www.youtube.com/watch?v=OhHmQmih9EM)
-    * [Download R studio](https://www.rstudio.com/products/rstudio/download/#download)
+ * Setting up Katalon
+    * [Setting up Katalon youtube](https://docs.katalon.com/katalon-studio/tutorials/install_setup_katalon_studio.html)
+    * [Download Katalon studio]https://www.katalon.com/)
     
- * Python
+ * Katalon
     * To be posted
- * SQL
+ * Katalon functions
     * To be posted
 
 
-# Basic statistics
+# Basic functions
 
-Guidline |Notes | Instructor
+Guidline |Notes | contributor
 ------- |------------ | -------------
 Knowledge|To be posted |  Zhiyong Lu
 Make up/ practice|To be posted | Zhiyong Lu
 
-# Inferential statistical analysis 
+# advanced funcitons
 
-Guidline |Notes | Instructor
+Guidline |Notes | contributor
 ------- |------------ | -------------
 Knowledge|To be posted |  Zhiyong Lu
 Make up/ practice|To be posted | Zhiyong Lu
 
-# Linear Regression
-Guidline |Notes | Instructor
-------- |------------ | -------------
-Knowledge|To be posted |  Zhiyong Lu
-Make up/ practice|To be posted | Zhiyong Lu
-
-# Tree Model
-Guidline |Notes | Instructor
-------- |------------ | -------------
-Knowledge|To be posted |  Zhiyong Lu
-Make up/ practice|To be posted | Zhiyong Lu
-
-# Logistic regression
-Guidline |Notes | Instructor
-------- |------------ | -------------
-Knowledge|To be posted |  Zhiyong Lu
-Make up/ practice|To be posted | Zhiyong Lu
-
-# Natural language processing
-Guidline |Notes | Instructor
-------- |------------ | -------------
-Knowledge|To be posted |  Zhiyong Lu
-Make up/ practice|To be posted | Zhiyong Lu
-
-# Clustering
-Guidline |Notes | Instructor
-------- |------------ | -------------
-Knowledge|To be posted |  Zhiyong Lu
-Make up/ practice|To be posted | Zhiyong Lu
-
-# Recommendation System
-Guidline |Notes | Instructor
-------- |------------ | -------------
-Knowledge|To be posted |  Zhiyong Lu
-Make up/ practice|To be posted | Zhiyong Lu
