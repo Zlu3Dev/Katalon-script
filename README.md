@@ -6,11 +6,8 @@ Repository creator has the copyrights for the contents in this repository. Pleas
 
 # Organizer :smiley:
  * [Zhiyong Lu] (US - Mechanicsburg Delivery) <zhilu@DELOITTE.com>; 
- * [Amanat, Shah] (US - Mechanicsburg Delivery) <samanat@DELOITTE.com>; 
- * [Agarwal, Ankit] (US - Mechanicsburg Delivery) <ankitagarwal4@deloitte.com>; 
  * [Ali, Syed M] (US - Mechanicsburg Delivery) <syedmali7@DELOITTE.com>; 
  * [Ekainjoh, Fon] (US - Mechanicsburg Delivery) <fekainjoh@deloitte.com>
- * [Vijayan, Sathia] (US - Mechanicsburg Delivery) <satvijayan@deloitte.com>
  
 # Tools setting
  * Setting up Github
